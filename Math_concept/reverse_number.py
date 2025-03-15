@@ -1,3 +1,4 @@
+#Reverse a number
 def reverse_num(x):
 
   rev = 0
@@ -12,6 +13,8 @@ def reverse_num(x):
 
   return rev
 
+a = 123456789
+print(reverse_num(a))
 
 
 
